@@ -23,7 +23,7 @@ public class Stack {
 	   int pop()
 	   {
 	     if(top==-1)
-			{System.out.println("underflow");
+			{System.out.println("******* Стак хоосон байна. ********");
 		     return -1;
 			}
 		 else
